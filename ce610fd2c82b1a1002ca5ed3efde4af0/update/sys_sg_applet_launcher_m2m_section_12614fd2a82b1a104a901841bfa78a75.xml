@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Document Submitter">5e614fd2ef2b1a10f66208cdb237b274</applet_launcher>
+        <order>20</order>
+        <section display_value="New Document Approvals">1e614fd2092b1a10607588f11d55f275</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:09</sys_created_on>
+        <sys_id>12614fd2a82b1a104a901841bfa78a75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_12614fd2a82b1a104a901841bfa78a75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:09</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

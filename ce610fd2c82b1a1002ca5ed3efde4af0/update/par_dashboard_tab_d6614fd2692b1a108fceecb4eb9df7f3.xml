@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="Document Approvals">d2614fd25b2b1a10df137c9cbc8caaf4</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d6614fd2692b1a108fceecb4eb9df7f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>par_dashboard_tab_d6614fd2692b1a108fceecb4eb9df7f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:06</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>number,name,submitter,description,approval_category,status,active,sys_created_on,sys_created_by,sys_updated_on,sys_updated_by,work_notes</field_list>
+        <name>document-view-config</name>
+        <order/>
+        <predicate_bundle display_value="document-approval-view-config-bundle">d6614fd2ce2b1a10dd7eb9117807b629</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:06</sys_created_on>
+        <sys_id>9e614fd2612b1a108ba4bd99c5927228</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>document-view-config</sys_name>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_9e614fd2612b1a108ba4bd99c5927228</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:06</sys_updated_on>
+        <table>x_1615585_docume_1_document_approval</table>
+        <ux_template display_value="doc-approval-view-all-template">12614fd2492b1a104d3af2b3a1a9f02a</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

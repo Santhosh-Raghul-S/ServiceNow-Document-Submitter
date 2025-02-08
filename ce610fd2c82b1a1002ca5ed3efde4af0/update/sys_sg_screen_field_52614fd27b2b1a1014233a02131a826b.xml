@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>document.description</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>200</order>
+        <record_id_field/>
+        <screen display_value="Details">1e614fd2fb2b1a10a03a422846c04c72</screen>
+        <screen_data_item_table>x_1615585_docume_1_document_approver</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:10</sys_created_on>
+        <sys_id>52614fd27b2b1a1014233a02131a826b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>document.description</sys_name>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_sg_screen_field_52614fd27b2b1a1014233a02131a826b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:10</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

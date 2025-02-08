@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>CONTENT_UPDATED_RELAY_5a614fd2582b1a10ddded847fb474751</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Add parameters to URL Relay (List Admin)</label>
+        <props>[{"name":"params","fieldType":"json","interfaceApiName":null,"label":"Parameters"}]</props>
+        <required_translations>[{"message":"Parameters","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:09</sys_created_on>
+        <sys_id>9e614fd2582b1a10f1ff740bbe6d5125</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add parameters to URL Relay (List Admin)</sys_name>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_event_9e614fd2582b1a10f1ff740bbe6d5125</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:09</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=9e614fd2582b1a10f1ff740bbe6d5125"/>
+</record_update>

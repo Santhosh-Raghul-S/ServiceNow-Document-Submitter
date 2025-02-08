@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_dynamic_route_mapping">
+    <sys_ux_dynamic_route_mapping action="INSERT_OR_UPDATE">
+        <param_payload>{&#13;
+   "route":"list",&#13;
+   "targetRoute":"",&#13;
+   "fields": {"table":"{{table}}","sysId":"{{sysId}}"},&#13;
+   "params": "",&#13;
+   "redirect":true,&#13;
+   "passiveNavigation":"",&#13;
+   "title":"",&#13;
+   "multiInstField":"",&#13;
+   "external":""&#13;
+}</param_payload>
+        <route_config display_value="Document Approval Workspace Route Config">92614fd21e2b1a1075631f8f1e1adb28</route_config>
+        <source_component>list</source_component>
+        <sys_class_name>sys_ux_dynamic_route_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56614fd2a92b1a105a036ed74903ec28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list</sys_name>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_dynamic_route_mapping_56614fd2a92b1a105a036ed74903ec28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:02</sys_updated_on>
+        <table>x_1615585_docume_1_document_approver</table>
+    </sys_ux_dynamic_route_mapping>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type/>
+        <description/>
+        <local_or_existing/>
+        <name>96614fd2d62b1a108a2b3eedeff2187e</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:02</sys_created_on>
+        <sys_id>d6614fd2562b1a104e84f4a5d1f86c7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>96614fd2d62b1a108a2b3eedeff2187e</sys_name>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_security_acl_d6614fd2562b1a104e84f4a5d1f86c7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:02</sys_updated_on>
+        <type display_value="ux_data_broker">6d9c40e9531210101cb3ddeeff7b12f6</type>
+    </sys_security_acl>
+</record_update>

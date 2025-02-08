@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1615585_docume_1.Document Admin</api_name>
+        <description>Role for document approval admins</description>
+        <name>Document Admin</name>
+        <role_names/>
+        <roles name="x_1615585_docume_1.admin">12618fd29e2b1a10fed7a00ff47bd10b</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d2614fd2c52b1a105fdfa4e40285c74e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Admin</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_applicability_d2614fd2c52b1a105fdfa4e40285c74e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:04</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="view_doc">1a614fd2452b1a100214a6a832527ce7</declarative_action_assignment>
+        <predicate display_value="Document Approval Genius Result">da614fd2d32b1a100e665c051578c828</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:15</sys_created_on>
+        <sys_id>12614fd24b2b1a10f589179d07ee840e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_12614fd24b2b1a10f589179d07ee840e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:15</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

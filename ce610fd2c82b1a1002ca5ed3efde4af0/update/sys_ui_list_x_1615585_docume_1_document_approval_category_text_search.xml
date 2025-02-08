@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1615585_docume_1_document_approval_category" version="2" view="text_search">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_1615585_docume_1_document_approval_category" element="NULL" name="x_1615585_docume_1_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">d2614fd2192b1a10d680a28e9a0b8f60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-08 14:10:03</sys_created_on>
+            <sys_id>96614fd2242b1a10109c81d17f319560</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-08 14:10:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1615585_docume_1_document_approval_category" element="NULL" name="x_1615585_docume_1_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">d2614fd2192b1a10d680a28e9a0b8f60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-08 14:10:03</sys_created_on>
+            <sys_id>5a614fd2d32b1a10c9eced3cb84c9960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-08 14:10:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>use_flow</element>
+            <list_id display_value="x_1615585_docume_1_document_approval_category" element="NULL" name="x_1615585_docume_1_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">d2614fd2192b1a10d680a28e9a0b8f60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-08 14:10:03</sys_created_on>
+            <sys_id>5e614fd23e2b1a1020b5d5c57e6f3b5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-08 14:10:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_1615585_docume_1_document_approval_category" element="NULL" name="x_1615585_docume_1_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">d2614fd2192b1a10d680a28e9a0b8f60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-08 14:10:03</sys_created_on>
+            <sys_id>1e614fd29f2b1a10496854714737b760</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-08 14:10:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1615585_docume_1_document_approval_category</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-08 14:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2614fd2192b1a10d680a28e9a0b8f60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1615585_docume_1_document_approval_category</sys_name>
+            <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+            <sys_update_name>sys_ui_list_x_1615585_docume_1_document_approval_category_text_search</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-08 14:10:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Text_search" name="text_search">0c029fc00a0a0b2c001aa3d4ed9f69e8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

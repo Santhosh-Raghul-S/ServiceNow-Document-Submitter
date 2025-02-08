@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_highlighted_value_config">
+    <sys_ux_m2m_highlighted_value_config action="INSERT_OR_UPDATE">
+        <highlighted_value display_value="status">da614fd2c92b1a100544b022481ab3cb</highlighted_value>
+        <highlighted_value_config display_value="Document Approvals">56614fd2212b1a101febf16f826ea222</highlighted_value_config>
+        <order>0</order>
+        <sys_class_name>sys_ux_m2m_highlighted_value_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:17</sys_created_on>
+        <sys_id>96614fd2c52b1a10ad410c652e696614</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_m2m_highlighted_value_config_96614fd2c52b1a10ad410c652e696614</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:17</sys_updated_on>
+    </sys_ux_m2m_highlighted_value_config>
+</record_update>

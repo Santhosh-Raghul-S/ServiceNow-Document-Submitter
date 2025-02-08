@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="document_id" label="Document Id" language="en" table="var__m_sys_hub_flow_input_52614fd2442b1a1012b43f20bc7567b4">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>document_id</element>
+            <help/>
+            <hint/>
+            <label>Document Id</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_52614fd2442b1a1012b43f20bc7567b4</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-08 14:10:14</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Document Id</sys_name>
+            <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_52614fd2442b1a1012b43f20bc7567b4_document_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-08 14:10:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

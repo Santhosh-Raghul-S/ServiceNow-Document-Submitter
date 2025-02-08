@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:11</sys_created_on>
+        <sys_id>d6614fd2e22b1a10c44ea3de447122f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Suggested Query Reader Group for Document Approval Search Configuration">9e614fd2882b1a107f64c5ecc072edf8</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="User History Reader">1ee419777320001052c7d5fdbdf6a7ad</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_d6614fd2e22b1a10c44ea3de447122f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:11</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

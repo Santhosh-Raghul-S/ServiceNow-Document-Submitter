@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="document-view-config">9e614fd2612b1a108ba4bd99c5927228</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:04</sys_created_on>
+        <sys_id>96614fd22d2b1a107505212c4a72960e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_96614fd22d2b1a107505212c4a72960e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:04</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

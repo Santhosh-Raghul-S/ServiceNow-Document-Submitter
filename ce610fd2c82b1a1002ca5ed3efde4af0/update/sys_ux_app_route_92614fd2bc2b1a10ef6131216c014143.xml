@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Doc Approval Portal App Config">5e618fd2382b1a10d33bc29c3dd3270a</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>doc_edit</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>doc_edit</route_type>
+        <screen_type display_value="doc_edit">52614fd27b2b1a10a68cb3cddc7cc644</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:09:59</sys_created_on>
+        <sys_id>92614fd2bc2b1a10ef6131216c014143</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>doc_edit</sys_name>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_app_route_92614fd2bc2b1a10ef6131216c014143</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:09:59</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=92614fd2bc2b1a10ef6131216c014143"/>
+</record_update>

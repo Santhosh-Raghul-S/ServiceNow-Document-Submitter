@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Record">5e614fd23d2b1a104b3b35d57ebe813e</macroponent>
+        <name>previewRecordRouteMapping</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[function handler({
+    api,
+    helpers,
+    event,
+    imports
+}) {
+    const {
+        routeMapping,
+        buildDefaultRoutePayload
+    } = imports["global.recordRoutesMapping"]();
+
+    var route = 'record';
+    var targetRoute = 'current';
+    const defaultRoutePayload = buildDefaultRoutePayload(route, targetRoute, event);
+    
+    const routeMap = api.data.dynamic_routing_record.routeMap;
+    const payload = routeMapping(routeMap, defaultRoutePayload, event);
+
+    const {
+        emit
+    } = api;
+    emit('NAV_ITEM_SELECTED', payload);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:02</sys_created_on>
+        <sys_id>16614fd24a2b1a10d32fc44ea9412c2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>previewRecordRouteMapping</sys_name>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_client_script_16614fd24a2b1a10d32fc44ea9412c2f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:02</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

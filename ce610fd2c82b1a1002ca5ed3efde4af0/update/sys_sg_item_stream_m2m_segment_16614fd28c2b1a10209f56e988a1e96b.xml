@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Approvals this month Item Stream">52614fd27c2b1a1000690cf602c7af6e</item_stream>
+        <segment display_value="Item Stream Segment">d6614fd26d2b1a10d8cdbfaa2ffe1d6b</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:09:59</sys_created_on>
+        <sys_id>16614fd28c2b1a10209f56e988a1e96b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_16614fd28c2b1a10209f56e988a1e96b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:09:59</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
