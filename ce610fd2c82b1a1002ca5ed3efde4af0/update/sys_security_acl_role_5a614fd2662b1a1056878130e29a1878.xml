@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:02</sys_created_on>
+        <sys_id>5a614fd2662b1a1056878130e29a1878</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_security_acl display_value="x.1615585.x_1615585_docume_1-portal.*">9e614fd2902b1a109ac001cc0e9f477e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5a614fd2662b1a1056878130e29a1878</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:02</sys_updated_on>
+        <sys_user_role display_value="x_1615585_docume_1.submitter" name="x_1615585_docume_1.submitter">9a618fd23c2b1a10b77f15101e7b190a</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

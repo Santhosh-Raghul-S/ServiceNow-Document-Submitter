@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_1615585_docume_1.Document-approval-evam-transform</api_name>
+        <batch_exclude>false</batch_exclude>
+        <description>Document-approval-evam-transform</description>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Document-approval-evam-transform</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[&#13;
+    {&#13;
+        "name": "evamDataDocApproval",&#13;
+        "label": "Evam Input",&#13;
+        "description": "",&#13;
+        "readOnly": false,&#13;
+        "fieldType": "object",&#13;
+        "mandatory": true,&#13;
+        "defaultValue": ""&#13;
+    }&#13;
+]</props>
+        <required_translations>[{"message":"Evam Input","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+	input.evamDataDocApproval.items = input.evamDataDocApproval.items.map(function(item) {																	   
+		if(item.propValues.highlightedHeaderLabel == 'Submitted'){
+			item.propValues.highlightedHeaderBkgColor ='info';
+		} else if (item.propValues.highlightedHeaderLabel == 'Rejected'){
+			item.propValues.highlightedHeaderBkgColor = 'critical';
+		} else if (item.propValues.highlightedHeaderLabel == 'Approved'){
+			item.propValues.highlightedHeaderBkgColor = 'positive';
+		} else if (item.propValues.highlightedHeaderLabel == 'Returned'){
+			item.propValues.highlightedHeaderBkgColor = 'high';
+		}
+		
+		return item;
+	});
+	
+	return input.evamDataDocApproval;
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:07</sys_created_on>
+        <sys_id>96614fd2d62b1a108a2b3eedeff2187e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document-approval-evam-transform</sys_name>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_96614fd2d62b1a108a2b3eedeff2187e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:07</sys_updated_on>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=96614fd2d62b1a108a2b3eedeff2187e"/>
+</record_update>

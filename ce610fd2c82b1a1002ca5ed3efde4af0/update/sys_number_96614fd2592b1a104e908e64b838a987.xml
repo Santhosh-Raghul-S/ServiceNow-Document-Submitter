@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1615585_docume_1_document_approval_category">x_1615585_docume_1_document_approval_category</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DOCC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 14:10:07</sys_created_on>
+        <sys_id>96614fd2592b1a104e908e64b838a987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DOCC</sys_name>
+        <sys_package display_value="Document Submitter" source="x_1615585_docume_1">ce610fd2c82b1a1002ca5ed3efde4af0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Submitter">ce610fd2c82b1a1002ca5ed3efde4af0</sys_scope>
+        <sys_update_name>sys_number_96614fd2592b1a104e908e64b838a987</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 14:10:07</sys_updated_on>
+    </sys_number>
+</record_update>
